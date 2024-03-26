@@ -1,0 +1,37 @@
+[
+    {
+        "word": "Abundance",
+        "question": "What is an antonym of 'Abundance'?",
+        "options": ["Scarcity", "Plenty", "Excess", "Surfeit"],
+        "answer": "Scarcity",
+        "explanation": "'Abundance' refers to a very large quantity of something, making 'Scarcity' its antonym."
+    },
+    {
+        "word": "Acclaim",
+        "question": "What is an antonym of 'Acclaim'?",
+        "options": ["Criticize", "Applaud", "Praise", "Commend"],
+        "answer": "Criticize",
+        "explanation": "To 'Acclaim' is to praise enthusiastically, so 'Criticize' is an antonym."
+    },
+    {
+        "word": "Accompany",
+        "question": "What is an antonym of 'Accompany'?",
+        "options": ["Abandon", "Escort", "Join", "Attend"],
+        "answer": "Abandon",
+        "explanation": "'Accompany' means to go along with someone, whereas 'Abandon' is to leave them."
+    },
+    {
+        "word": "Adept",
+        "question": "What is an antonym of 'Adept'?",
+        "options": ["Inept", "Skilled", "Proficient", "Competent"],
+        "answer": "Inept",
+        "explanation": "'Adept' means very skilled or proficient, so 'Inept' is its antonym."
+    },
+    {
+        "word": "Admit",
+        "question": "What is an antonym of 'Admit'?",
+        "options": ["Deny", "Acknowledge", "Confess", "Accept"],
+        "answer": "Deny",
+        "explanation": "To 'Admit' is to acknowledge or confess to something, making 'Deny' its antonym."
+    }
+]

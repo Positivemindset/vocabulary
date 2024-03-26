@@ -1,0 +1,25 @@
+#meanings-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+#meanings-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#meanings-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+#search-container input[type="text"] {
+    width: 90%; /* Make the input field take the full width of its container */
+    padding: 15px; /* Add some padding inside the input field for better text visibility */
+    font-size: 20px; /* Increase the font size for better readability */
+    margin-bottom: 20px; /* Add some space below the input field */
+    border: 2px solid #ccc; /* Add a border to the input field */
+    border-radius: 5px; /* Optionally, round the corners of the input field */
+}

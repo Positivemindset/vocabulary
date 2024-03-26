@@ -1,0 +1,130 @@
+body {
+    font-family: 'Calibri', 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a2d2ff; /* Light blue background */
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#quiz-container {
+    background: #fff7cd; /* Light yellow background */
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    width: 100%; /* Adjust as needed */
+    max-width: 600px; /* Adjust as needed */
+    margin-top: 1em; /* Add some space above the quiz container */
+}
+
+h1 {
+    text-align: center;
+    color: #ff595e; /* Soft red color */
+    font-size: 3em; /* Larger font size for the title */
+    margin-bottom: 1em; /* Adjust as needed */
+}
+
+#question {
+    margin-bottom: 30px;
+    font-size: 2.5em; /* Increased font size for the question */
+    color: #1982c4; /* Soft blue color */
+}
+
+.option-container {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    background: #ffca3a; /* Soft yellow background for options */
+    padding: 10px 20px; /* Padding for options */
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition for interaction */
+}
+
+.option-label {
+    margin-left: 10px;
+    font-size: 1.6em; /* Increased font size for option labels */
+}
+
+input[type="radio"] {
+    accent-color: #6a4c93; /* Color for the radio button */
+    width: 20px; /* Larger radio button */
+    height: 20px; /* Larger radio button */
+}
+
+button {
+    display: block; /* Make buttons block level so they stretch to container width */
+    width: 100%;
+    margin-top: 30px;
+    padding: 20px;
+    background: #6a4c93; /* Purple color for the button */
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1.4em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease; /* Smooth transition for button */
+}
+
+button:hover {
+    background: #8067b7; /* Darken button color on hover */
+}
+
+/* Styling for correct/incorrect answers */
+.correct {
+    border-color: #8ac926; /* Green border for correct answers */
+    background-color: #cbf3f0; /* Light green background for correct answers */
+}
+
+.incorrect {
+    border-color: #ff595e; /* Red border for incorrect answers */
+    background-color: #ffcad4; /* Light red background for incorrect answers */
+}
+
+#results {
+    text-align: center;
+}
+
+#score {
+    font-size: 1.5em;
+    margin: 20px;
+}
+
+#progress-bar-container {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+#progress-bar {
+    height: 20px;
+    background-color: #4caf50;
+    width: 0%; /* Initial width */
+    border-radius: 5px;
+    transition: width 1s ease-in-out;
+}
+#left-side-gifs, #right-side-gifs {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Adjust the space between GIFs */
+}
+
+#left-side-gifs {
+    left: 10px; /* Adjust the distance from the left side */
+}
+
+#right-side-gifs {
+    right: 10px; /* Adjust the distance from the right side */
+}
+
+#left-side-gifs img, #right-side-gifs img {
+    width: 100px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+}

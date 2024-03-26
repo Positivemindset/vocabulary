@@ -1,0 +1,44 @@
+[
+    {
+        "word": "Abode",
+        "synonyms": [
+            "Home",
+            "Dwelling",
+            "Residence"
+        ],
+        "antonyms": [
+            "Workplace",
+            "Office",
+            "Factory"
+        ],
+        "explanation": "A place of residence."
+    },
+    {
+        "word": "Abstract",
+        "synonyms": [
+            "Conceptual",
+            "Theoretical",
+            "Non-concrete"
+        ],
+        "antonyms": [
+            "Concrete",
+            "Tangible",
+            "Material"
+        ],
+        "explanation": "Existing in thought or as an idea but not having a physical existence."
+    },
+    {
+        "word": "Absurd",
+        "synonyms": [
+            "Ridiculous",
+            "Ludicrous",
+            "Preposterous"
+        ],
+        "antonyms": [
+            "Reasonable",
+            "Sensible",
+            "Rational"
+        ],
+        "explanation": "Wildly unreasonable, illogical, or inappropriate."
+    }
+]

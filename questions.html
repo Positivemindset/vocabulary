@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div id="selection-container" style="display: none;">
+        <button type="button" id="start-quiz">Start Quiz</button>
+    </div>
+    
+
+    <div id="quiz-container" style="display: none;">
+        <a href="#" id="quiz-title" style="text-decoration: none; color: inherit;">
+            <h1 style="cursor: pointer;">Vocabulary Quiz</h1>
+        </a>
+        
+        <div id="question">Please wait, loading...</div>
+        <form id="quiz-form">
+            <ul id="options">
+                <!-- Radio button options will be populated here -->
+            </ul>
+            <button type="button" id="next" style="display: none;">Next Question</button>
+            <button type="button" id="finish" style="display: none;">Finish Quiz</button>
+        </form>
+    </div>
+
+    <!-- Results container, initially hidden -->
+    <div id="results" style="display: none;">
+        <div><button id="home">Home</button></div> <!-- Make sure the Home button is always visible in the results section -->
+        <div id="score"></div>
+        <div id="progress-bar-container">
+            <div id="progress-bar"></div>
+        </div>
+    </div>
+
+    <script src="questions.js"></script>
+</body>
+</html>

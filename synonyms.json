@@ -1,0 +1,590 @@
+[
+    {
+        "word": "Abode",
+            "question": "What is a synonym of 'Abode'?",
+            "options": [
+                "Home",
+                "Dwelling",
+                "Residence",
+                "Office"
+            ],
+        "answer": "Home",
+        "explanation": "A place of residence."
+    },
+    {
+        "word": "Abstract",
+        "question": "What is a synonym of 'Abstract'?",
+        "options": [
+            "Conceptual",
+            "Theoretical",
+            "Non-concrete",
+            "Concrete"
+        ],
+        "answer": "Conceptual",
+        "explanation": "Existing in thought or as an idea but not having a physical existence."
+    },
+    {
+        "word": "Absurd",
+        "question": "What is a synonym of 'Absurd'?",
+        "options": [
+            "Ridiculous",
+            "Ludicrous",
+            "Preposterous",
+            "Reasonable"
+        ],
+        "answer": "Ridiculous",
+        "explanation": "Wildly unreasonable, illogical, or inappropriate."
+    },
+    {
+        "word": "Abundance",
+        "question": "What is a synonym of 'Abundance'?",
+        "options": [
+            "Plenty",
+            "Ample",
+            "Bounty",
+            "Scarcity"
+        ],
+        "answer": "Plenty",
+        "explanation": "A very large quantity of something."
+    },
+    {
+        "word": "Acclaim",
+        "question": "What is a synonym of 'Acclaim'?",
+        "options": [
+            "Applaud",
+            "Praise",
+            "Cheer",
+            "Boo"
+        ],
+        "answer": "Applaud",
+        "explanation": "Praise enthusiastically and publicly."
+    },
+    {
+        "word": "Accolade",
+        "question": "What is a synonym of 'Accolade'?",
+        "options": [
+            "Honor",
+            "Award",
+            "Recognition",
+            "Reprimand"
+        ],
+        "answer": "Honor",
+        "explanation": "An award or privilege granted as a special honor or as an acknowledgment of merit."
+    },
+    {
+        "word": "Accompany",
+        "question": "What is a synonym of 'Accompany'?",
+        "options": [
+            "Escort",
+            "Join",
+            "Partner",
+            "Leave"
+        ],
+        "answer": "Escort",
+        "explanation": "Go somewhere with (someone) as a companion or escort."
+    },
+    {
+        "word": "Achieve",
+        "question": "What is a synonym of 'Achieve'?",
+        "options": [
+            "Accomplish",
+            "Attain",
+            "Reach",
+            "Fail"
+        ],
+        "answer": "Accomplish",
+        "explanation": "Successfully reach a desired objective or result by effort, skill, or courage."
+    },
+    {
+        "word": "Acquiesce",
+        "question": "What is a synonym of 'Acquiesce'?",
+        "options": [
+            "Consent",
+            "Agree",
+            "Concede",
+            "Resist"
+        ],
+        "answer": "Consent",
+        "explanation": "Accept something reluctantly but without protest."
+    },
+    {
+        "word": "Address",
+        "question": "What is a synonym of 'Address'?",
+        "options": [
+            "Speak",
+            "Talk",
+            "Converse",
+            "Ignore"
+        ],
+        "answer": "Speak",
+        "explanation": "Speak to (a person or an assembly), typically in a formal way."
+    },
+    {
+        "word": "Adhere",
+        "question": "What is a synonym of 'Adhere'?",
+        "options": [
+            "Stick",
+            "Cling",
+            "Bind",
+            "Separate"
+        ],
+        "answer": "Stick",
+        "explanation": "Stick fast to (a surface or substance)."
+    },
+    {
+        "word": "Adjacent",
+        "question": "What is a synonym of 'Adjacent'?",
+        "options": [
+            "Adjoining",
+            "Next",
+            "Neighboring",
+            "Distant"
+        ],
+        "answer": "Adjoining",
+        "explanation": "Next to or adjoining something else."
+    },
+    {
+        "word": "Admission",
+        "question": "What is a synonym of 'Admission'?",
+        "options": [
+            "Confession",
+            "Acknowledgment",
+            "Revelation",
+            "Denial"
+        ],
+        "answer": "Confession",
+        "explanation": "An 'Admission' can be a person's acknowledgment of a fact or an allowance into a place or institution."
+    },
+    {
+        "word": "Admonish",
+        "question": "What is a synonym of 'Admonish'?",
+        "options": [
+            "Reprimand",
+            "Scold",
+            "Caution",
+            "Praise"
+        ],
+        "answer": "Reprimand",
+        "explanation": "To 'Admonish' someone is to warn them about their behavior or actions in a serious manner."
+    },
+    {
+        "word": "Adopt",
+        "question": "What is a synonym of 'Adopt'?",
+        "options": [
+            "Embrace",
+            "Espouse",
+            "Assimilate",
+            "Reject"
+        ],
+        "answer": "Embrace",
+        "explanation": "'Adopt' refers to the act of legally taking on the responsibilities as a parent to a child that is not one's biological offspring, or more generally, to accept or start using something new."
+    },
+    {
+        "word": "Adverse",
+        "question": "What is a synonym of 'Adverse'?",
+        "options": [
+            "Unfavorable",
+            "Detrimental",
+            "Unpropitious",
+            "Propitious"
+        ],
+        "answer": "Unfavorable",
+        "explanation": "'Adverse' describes something that is negative or harmful to one's interests."
+    },
+    {
+        "word": "Affable",
+        "question": "What is a synonym of 'Affable'?",
+        "options": [
+            "Amiable",
+            "Cordial",
+            "Congenial",
+            "Unfriendly"
+        ],
+        "answer": "Amiable",
+        "explanation": "Someone who is 'Affable' is pleasant, approachable, and easy to speak with."
+    },
+    {
+        "word": "Aggravate",
+        "question": "What is a synonym of 'Aggravate'?",
+        "options": [
+            "Worsen",
+            "Exacerbate",
+            "Intensify",
+            "Alleviate"
+        ],
+        "answer": "Worsen",
+        "explanation": "To 'Aggravate' is to make a situation more serious or severe."
+    },
+    {
+        "word": "Aggressive",
+        "question": "What is a synonym of 'Aggressive'?",
+        "options": [
+            "Belligerent",
+            "Combative",
+            "Assertive",
+            "Passive"
+        ],
+        "answer": "Belligerent",
+        "explanation": "'Aggressive' behavior is forceful, sometimes hostile, and often indicates a readiness to confront."
+    },
+    {
+        "word": "Agitate",
+        "question": "What is a synonym of 'Agitate'?",
+        "options": [
+            "Disturb",
+            "Upset",
+            "Fluster",
+            "Calm"
+        ],
+        "answer": "Disturb",
+        "explanation": "To 'Agitate' means to disturb, excite, or stir up emotions or feelings, often causing nervousness or unrest."
+    },
+    {
+        "word": "Aid",
+        "question": "What is a synonym of 'Aid'?",
+        "options": [
+            "Assist",
+            "Help",
+            "Support",
+            "Obstruct"
+        ],
+        "answer": "Assist",
+        "explanation": "'Aid' refers to the assistance provided to help achieve a goal or overcome a difficulty."
+    },
+    {
+        "word": "Alert",
+        "question": "What is a synonym of 'Alert'?",
+        "options": [
+            "Attentive",
+            "Watchful",
+            "Vigilant",
+            "Inattentive"
+        ],
+        "answer": "Attentive",
+        "explanation": "Being 'Alert' means being quick to recognize and respond to potential danger or difficulties."
+    },
+    {
+        "word": "Alleviate",
+        "question": "What is a synonym of 'Alleviate'?",
+        "options": [
+            "Mitigate",
+            "Relieve",
+            "Lessen",
+            "Worsen"
+        ],
+        "answer": "Mitigate",
+        "explanation": "To 'Alleviate' is to provide relief and reduce the severity of pain or problems."
+    },
+    {
+        "word": "Allure",
+        "question": "What is a synonym of 'Allure'?",
+        "options": [
+            "Charm",
+            "Attraction",
+            "Appeal",
+            "Repulsion"
+        ],
+        "answer": "Charm",
+        "explanation": "'Allure' refers to the captivating charm or fascination that something or someone possesses."
+    },
+    {
+        "word": "Aloof",
+        "question": "What is a synonym of 'Aloof'?",
+        "options": [
+            "Distant",
+            "Detached",
+            "Unapproachable",
+            "Approachable"
+        ],
+        "answer": "Distant",
+        "explanation": "Someone who is 'Aloof' is emotionally or physically distant and does not seek the company of others."
+    },
+    {
+        "word": "Altruistic",
+        "question": "What is a synonym of 'Altruistic'?",
+        "options": [
+            "Selfless",
+            "Compassionate",
+            "Charitable",
+            "Selfish"
+        ],
+        "answer": "Selfless",
+        "explanation": "'Altruistic' behavior is characterized by selfless concern for the welfare of others."
+    },
+    {
+        "word": "Amateur",
+        "question": "What is a synonym of 'Amateur'?",
+        "options": [
+            "Non-professional",
+            "Unskilled",
+            "Novice",
+            "Expert"
+        ],
+        "answer": "Non-professional",
+        "explanation": "An 'Amateur' is someone who engages in a pursuit on an unpaid basis or without professional skill."
+    },
+    {
+        "word": "Ambiguous",
+        "question": "What is a synonym of 'Ambiguous'?",
+        "options": [
+            "Unclear",
+            "Indeterminate",
+            "Vague",
+            "Explicit"
+        ],
+        "answer": "Unclear",
+        "explanation": "Something 'Ambiguous' has multiple possible meanings or interpretations and is not clear-cut."
+    },
+    {
+        "word": "Ambrosial",
+        "question": "What is a synonym of 'Ambrosial'?",
+        "options": [
+            "Delicious",
+            "Fragrant",
+            "Heavenly",
+            "Unappetizing"
+        ],
+        "answer": "Delicious",
+        "explanation": "'Ambrosial' refers to a smell or taste that is extremely pleasing, often associated with divine or celestial quality."
+    },
+    {
+        "word": "Imbalance",
+        "question": "What is a synonym of 'Imbalance'?",
+        "options": [
+            "Disparity",
+            "Instability",
+            "Disproportion",
+            "Equilibrium"
+        ],
+        "answer": "Disparity",
+        "explanation": "Imbalance refers to a situation where things are not equal or fair."
+    },
+    {
+        "word": "Optimist",
+        "question": "What is a synonym of 'Optimist'?",
+        "options": [
+            "Hopeful",
+            "Pessimist",
+            "Realist",
+            "Idealist"
+        ],
+        "answer": "Hopeful",
+        "explanation": "An optimist is a person who tends to be hopeful and confident about the future."
+    },
+    {
+        "word": "Candid",
+        "question": "What is a synonym of 'Candid'?",
+        "options": [
+            "Forthright",
+            "Evasive",
+            "Deceptive",
+            "Ambiguous"
+        ],
+        "answer": "Forthright",
+        "explanation": "Candid means being truthful and straightforward."
+    },
+    {
+        "word": "Idle",
+        "question": "What is a synonym of 'Idle'?",
+        "options": [
+            "Inactive",
+            "Busy",
+            "Active",
+            "Engaged"
+        ],
+        "answer": "Inactive",
+        "explanation": "Being idle is not being active or at work."
+    },
+    {
+        "word": "Frivolous",
+        "question": "What is a synonym of 'Frivolous'?",
+        "options": [
+            "Silly",
+            "Serious",
+            "Important",
+            "Significant"
+        ],
+        "answer": "Silly",
+        "explanation": "Frivolous actions or items are not serious or sensible."
+    },
+    {
+        "word": "Serious",
+        "question": "What is a synonym of 'Serious'?",
+        "options": [
+            "Solemn",
+            "Grave",
+            "Earnest",
+            "Frivolous"
+        ],
+        "answer": "Solemn",
+        "explanation": "Being serious means having an earnest or grave attitude or manner."
+    },
+    {
+        "word": "Decent",
+        "question": "What is a synonym of 'Decent'?",
+        "options": [
+            "Proper",
+            "Respectable",
+            "Appropriate",
+            "Indecent"
+        ],
+        "answer": "Proper",
+        "explanation": "Decent means conforming with generally accepted standards of respectable or moral behavior."
+    },
+    {
+        "word": "Unreal",
+        "question": "What is a synonym of 'Unreal'?",
+        "options": [
+            "Fictitious",
+            "Imaginary",
+            "Illusory",
+            "Real"
+        ],
+        "answer": "Fictitious",
+        "explanation": "Unreal describes something that is imaginary or illusory, not existing in reality."
+    },
+    {
+        "word": "Incompetent",
+        "question": "What is a synonym of 'Incompetent'?",
+        "options": [
+            "Unskilled",
+            "Incapable",
+            "Inept",
+            "Qualified"
+        ],
+        "answer": "Unskilled",
+        "explanation": "Incompetent means not having the necessary skills to do something successfully."
+    },
+    {
+        "word": "Past",
+        "question": "What is a synonym of 'Past'?",
+        "options": [
+            "Previous",
+            "Historical",
+            "Former",
+            "Future"
+        ],
+        "answer": "Previous",
+        "explanation": "Past refers to the time before the present, or an earlier period of time."
+    },
+    {
+        "word": "Humiliate",
+        "question": "What is a synonym of 'Humiliate'?",
+        "options": [
+            "Embarrass",
+            "Shame",
+            "Degrade",
+            "Praise"
+        ],
+        "answer": "Embarrass",
+        "explanation": "To humiliate someone is to make them feel ashamed and foolish by injuring their dignity and self-respect."
+    },
+    {
+        "word": "Detain",
+        "question": "What is a synonym of 'Detain'?",
+        "options": [
+            "Hold",
+            "Confine",
+            "Arrest",
+            "Release"
+        ],
+        "answer": "Hold",
+        "explanation": "To detain means to keep someone in official custody, typically for questioning about a crime or in politically sensitive situations."
+    },
+    {
+        "word": "Spontaneous",
+        "question": "What is a synonym of 'Spontaneous'?",
+        "options": [
+            "Impromptu",
+            "Unplanned",
+            "Instinctive",
+            "Calculated"
+        ],
+        "answer": "Impromptu",
+        "explanation": "Spontaneous actions are performed or occurring as a result of a sudden inner impulse or inclination without premeditation or external stimulus."
+    },
+    {
+        "word": "Straight",
+        "question": "What is a synonym of 'Straight'?",
+        "options": [
+            "Linear",
+            "Direct",
+            "Unbent",
+            "Crooked"
+        ],
+        "answer": "Direct",
+        "explanation": "Straight means extending or moving uniformly in a particular direction without changing direction or stopping."
+    },
+    {
+        "word": "Avoid",
+        "question": "What is a synonym of 'Avoid'?",
+        "options": [
+            "Evade",
+            "Dodge",
+            "Elude",
+            "Confront"
+        ],
+        "answer": "Evade",
+        "explanation": "To avoid means to keep away from or stop oneself from doing something."
+    },
+    {
+        "word": "Miser",
+        "question": "What is a synonym of 'Miser'?",
+        "options": [
+            "Hoarder",
+            "Scrooge",
+            "Penny-pincher",
+            "Spender"
+        ],
+        "answer": "Scrooge",
+        "explanation": "A miser is a person who hoards wealth and spends as little money as possible."
+    },
+    {
+        "word": "Synthetic",
+        "question": "What is a synonym of 'Synthetic'?",
+        "options": [
+            "Artificial",
+            "Faux",
+            "Man-made",
+            "Natural"
+        ],
+        "answer": "Artificial",
+        "explanation": "Synthetic refers to something made by chemical synthesis, especially to imitate a natural product."
+    },
+    {
+        "word": "Like",
+        "question": "What is a synonym of 'Like'?",
+        "options": [
+            "Enjoy",
+            "Favor",
+            "Prefer",
+            "Detest"
+        ],
+        "answer": "Enjoy",
+        "explanation": "To like something means to find it enjoyable or agreeable."
+    },
+    {
+        "word": "Ignore",
+        "question": "What is a synonym of 'Ignore'?",
+        "options": [
+            "Neglect",
+            "Overlook",
+            "Disregard",
+            "Observe"
+        ],
+        "answer": "Neglect",
+        "explanation": "To ignore something means not to give it attention or regard."
+    },
+    {
+        "word": "Lazy",
+        "question": "What is a synonym of 'Lazy'?",
+        "options": [
+            "Slothful",
+            "Indolent",
+            "Lethargic",
+            "Energetic"
+        ],
+        "answer": "Slothful",
+        "explanation": "Being lazy means having a lack of energy or a reluctance to do any work."
+    }
+]
